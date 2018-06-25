@@ -1,17 +1,2 @@
-insert into story(id,name) values(1, 'Story1' );
-insert into story(id,name) values(2, 'Story2' );
-insert into story(id,name) values(3, 'Story3' );
-insert into story(id,name) values(4, 'Story4' );
-insert into story(id,name) values(5, 'Story5' );
-insert into story(id,name) values(6, 'Story6' );
-insert into story(id,name) values(7, 'Story7' );
-insert into story(id,name) values(8, 'Story8' );
-insert into story(id,name) values(9, 'Story9' );
-insert into story(id,name) values(10,'Story10');
-insert into story(id,name) values(11,'Story11');
-insert into story(id,name) values(12,'Story12');
-insert into story(id,name) values(13,'Story13');
-insert into story(id,name) values(14,'Story14');
-insert into story(id,name) values(15,'Story15');
-insert into story(id,name) values(16,'Story16');
-insert into story(id,name) values(17,'Story17');
+insert into story(id,name,specie,fecha,race,colour,gender,born_date,age,story,owner,direccion,phone,anamesis,actitud,temperamento,cc,peso,mm,tllc,fc,fr,tp,dh,cavidadoral,cavidadnasal,ojosoidos,cardiorespiratorio,digestivo,nefrourologico,musculoEsqueletico,pielanexos,linfatico,nervioso) values(1, 'Max','perro','2018-06-25 10:54:50.546','Pit-Bull','','','','','','Walter','','','','','','','','','','','','','','','','','','','','','','','');
+
