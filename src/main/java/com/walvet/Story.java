@@ -47,133 +47,6 @@ public class Story {
     private String linfatico;
     private String nervioso;
 
-	public Integer getId() {
-		return id;
-	}
-
-	public void setId(Integer id) {
-		this.id = id;
-	}
-
-	public String getName() {
-		return name;
-	}
-
-	public void setName(String name) {
-		this.name = name;
-	}
-
-	public String getSpecie() {
-		return specie;
-	}
-
-	public void setSpecie(String specie) {
-		this.specie = specie;
-	}
-
-	public Date getFecha() {
-		return fecha;
-	}
-
-	public void setFecha(Date fecha) {
-		this.fecha = fecha;
-	}
-
-	public String getRace() {
-		return race;
-	}
-
-	public void setRace(String race) {
-		this.race = race;
-	}
-
-	public String getColour() {
-		return colour;
-	}
-
-	public void setColour(String colour) {
-		this.colour = colour;
-	}
-
-	public String getGender() {
-		return gender;
-	}
-
-	public void setGender(String gender) {
-		this.gender = gender;
-	}
-
-	public String getBornDate() {
-		return bornDate;
-	}
-
-	public String getDireccion() {
-		return direccion;
-	}
-
-	public void setDireccion(String direccion) {
-		this.direccion = direccion;
-	}
-
-	public void setBornDate(String bornDate) {
-		this.bornDate = bornDate;
-	}
-
-	public String getAge() {
-		return age;
-	}
-
-	public void setAge(String age) {
-		this.age = age;
-	}
-
-	public String getStory() {
-		return story;
-	}
-
-	public void setStory(String story) {
-		this.story = story;
-	}
-
-	public String getOwner() {
-		return owner;
-	}
-
-	public void setOwner(String owner) {
-		this.owner = owner;
-	}
-
-	public String getActitud() {
-		return actitud;
-	}
-
-	public void setActitud(String actitud) {
-		this.actitud = actitud;
-	}
-
-	public String getPhone() {
-		return phone;
-	}
-
-	public void setPhone(String phone) {
-		this.phone = phone;
-	}
-
-	public String getAnamesis() {
-		return anamesis;
-	}
-
-	public void setAnamesis(String anamesis) {
-		this.anamesis = anamesis;
-	}
-
-	public String getActitude() {
-		return actitude;
-	}
-
-	public void setActitude(String actitude) {
-		this.actitude = actitude;
-	}
 
 	public String getTemperamento() {
 		return temperamento;
@@ -328,8 +201,132 @@ public class Story {
 		this.pielanexos = pielanexos;
 	}
 
-	public Story() {
+	public Integer getId() {
+		return id;
 	}
 
-	
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getSpecie() {
+		return specie;
+	}
+
+	public void setSpecie(String specie) {
+		this.specie = specie;
+	}
+
+	public Date getFecha() {
+		return fecha;
+	}
+
+	public void setFecha(Date fecha) {
+		this.fecha = fecha;
+	}
+
+	public String getRace() {
+		return race;
+	}
+
+	public void setRace(String race) {
+		this.race = race;
+	}
+
+	public String getColour() {
+		return colour;
+	}
+
+	public void setColour(String colour) {
+		this.colour = colour;
+	}
+
+	public String getGender() {
+		return gender;
+	}
+
+	public void setGender(String gender) {
+		this.gender = gender;
+	}
+
+	public String getBornDate() {
+		return bornDate;
+	}
+
+	public void setBornDate(String bornDate) {
+		this.bornDate = bornDate;
+	}
+
+	public String getAge() {
+		return age;
+	}
+
+	public void setAge(String age) {
+		this.age = age;
+	}
+
+	public String getStory() {
+		return story;
+	}
+
+	public void setStory(String story) {
+		this.story = story;
+	}
+
+	public String getOwner() {
+		return owner;
+	}
+
+	public void setOwner(String owner) {
+		this.owner = owner;
+	}
+
+	public String getActitud() {
+		return actitud;
+	}
+
+	public void setActitud(String actitud) {
+		this.actitud = actitud;
+	}
+
+	public String getDireccion() {
+		return direccion;
+	}
+
+	public void setDireccion(String direccion) {
+		this.direccion = direccion;
+	}
+
+	public String getPhone() {
+		return phone;
+	}
+
+	public void setPhone(String phone) {
+		this.phone = phone;
+	}
+
+	public String getAnamesis() {
+		return anamesis;
+	}
+
+	public void setAnamesis(String anamesis) {
+		this.anamesis = anamesis;
+	}
+
+	public String getActitude() {
+		return actitude;
+	}
+
+	public void setActitude(String actitude) {
+		this.actitude = actitude;
+	}
+
 }
